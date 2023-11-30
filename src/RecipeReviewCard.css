@@ -1,0 +1,22 @@
+.Card{
+    
+    padding-top: 20px;
+    padding-left: 60px;
+    padding-bottom: 20px;
+}
+.Sideline{
+    font-style: italic;
+    font-weight: bolder;
+    flex-direction: column;
+    font-size: x-large;
+    
+    
+}
+.image{
+    padding-left: 100px;
+}
+.back{
+    background-color:white;
+}
+
+

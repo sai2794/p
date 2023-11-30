@@ -1,0 +1,21 @@
+.ppp{
+    font-style: italic;
+    font-weight: bolder;
+    font-size:xxx-large;
+    font-variant: small-caps;
+    font-display:inherit;
+    color:white;
+   
+   
+   padding: 300px;
+}
+.img{
+    background-image: url("https://assets.architecturaldigest.in/photos/6385cf3311f0276636badfb6/16:9/w_1920,c_limit/DSC_8367-Edit-W.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.butt{
+    padding:100px;
+}

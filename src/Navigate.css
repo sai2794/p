@@ -1,0 +1,16 @@
+.navbar  {
+    /* background-color:darkred; */
+    height: 80px;
+    
+}
+.button{
+    background-color: white;
+color: black;
+padding: 10px 25px;
+border-radius: 12px;
+}
+.navbar-brand{
+    font-size:xx-large;
+    font-style: italic;
+    font-weight:bolder;
+}
